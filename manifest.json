@@ -1,6 +1,6 @@
 {
-  "short_name": "Neighborhood Map React",
-  "name": "Neighborhood Map React",
+  "short_name": "Neighborhood Map",
+  "name": "Neighborhood Map",
   "icons": [
     {
       "src": "./android-icon-36x36.png",
