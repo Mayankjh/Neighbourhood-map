@@ -8,8 +8,8 @@ import StarIcon from '../../assets/imgs/star.svg';
 import FoursquareIcon from '../../assets/imgs/foursquare.svg';
 import Error from '../Error/Error';
 import './MarkerInfo.css';
-import IconDef from '../../assets/imgs/pin_def.svg';
-import IconSel from '../../assets/imgs/pin_sel.svg';
+import IconDef from '../../assets/imgs/m2.png';
+import IconSel from '../../assets/imgs/map.png';
 
 class MarkerInfo extends Component {
   state = {
