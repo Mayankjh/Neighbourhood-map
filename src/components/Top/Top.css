@@ -1,11 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
 .top {
-  background-color: #37474f;
+  text-align:center;
+  background-image: linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);
   padding: 1em;
+  font-family: 'Alfa Slab One', cursive;
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.45);
 }
 
 .top-title {
-  color: #fff;
+  color: #f1f1f1;
   font-size: 36px;
   font-weight: 300;
   text-transform: uppercase;

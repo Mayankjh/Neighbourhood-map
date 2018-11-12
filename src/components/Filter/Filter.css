@@ -1,5 +1,5 @@
 .filter {
-  background-color: #eceff1;
+background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
   width: 30%;
   padding: 3em 1em;
 }
@@ -51,7 +51,7 @@
   margin: 1em 0 0 0;
   list-style: none;
   padding: 0.5em;
-  background-color: #cfd8dc;
+  background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
 }
 
 .results-list .result-item {

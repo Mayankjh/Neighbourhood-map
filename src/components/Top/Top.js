@@ -6,7 +6,7 @@ const Top = () => (
   <header className="top">
     <h1 className="top-title">
       <img src={Logo} alt="World with markers and paths in it" className="icon"/>
-      <span>Neighborhood Map</span>
+      <span>Neighbourhood Map</span>
     </h1>
   </header>
 );
