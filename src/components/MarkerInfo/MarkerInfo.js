@@ -122,7 +122,7 @@ class MarkerInfo extends Component {
 }
 
 MarkerInfo.propTypes = {
-  key: PropTypes.string.isRequired,
+  
   placeId: PropTypes.string.isRequired,
   placePos: PropTypes.object.isRequired,
   onToggleOpen: PropTypes.func.isRequired,

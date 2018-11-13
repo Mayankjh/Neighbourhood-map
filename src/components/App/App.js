@@ -100,7 +100,7 @@ class App extends Component {
           ) : (
             <Map
               onToggleOpen={this.onToggleOpen}
-              showInfoId={this.state.showInfoId}
+              showInfoId= {this.state.showInfoId.toString()}
               action={this.state.action}
               places={this.state.places}
               showingPlaces={this.state.showingPlaces}
