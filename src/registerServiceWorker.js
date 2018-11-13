@@ -5,6 +5,8 @@
 // will only see deployed updates on the "N+1" visit to a page, since previously
 // cached resources are updated in the background.
 
+// Link to how service worker works in detail : https://developers.google.com/web/fundamentals/primers/service-workers/
+
 // To learn more about the benefits of this model, read https://goo.gl/KwvDNy.
 // This link also includes instructions on opting out of this behavior.
 

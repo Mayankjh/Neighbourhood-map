@@ -29,6 +29,7 @@ class MarkerInfo extends Component {
         this.setState({ placeDetails, loaded: true });
       })
       .catch(err => {
+        alert('Foursquare API returned with ');
         console.log('Foursquare API returned with ', err);
         this.setState({ error: true });
       });

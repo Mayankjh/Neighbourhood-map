@@ -98,7 +98,7 @@ class App extends Component {
               }
             />
           ) : (
-            <Map
+            <Map role="application"
               onToggleOpen={this.onToggleOpen}
               showInfoId= {this.state.showInfoId.toString()}
               action={this.state.action}
